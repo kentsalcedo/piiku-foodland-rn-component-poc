@@ -4,7 +4,9 @@ Reusable React Native components and a stakeholder-facing Storybook for the Food
 
 ## Live demo
 
-Screenshot / live demo placeholder: after GitHub Pages is enabled, add the published Storybook URL here.
+Published Storybook: https://kentsalcedo.github.io/piiku-foodland-rn-component-poc/
+
+If that URL 404s, GitHub Pages is not enabled yet: **Settings → Pages → Source = GitHub Actions**, then re-run **Deploy Storybook**.
 
 ## For product, marketing, and design reviewers
 
